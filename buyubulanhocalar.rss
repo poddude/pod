@@ -2,8 +2,8 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <atom:link href="https://audiomack.com/rss/buyubulanhocalar/podcast.rss" rel="self" type="application/rss+xml" />
-<title>buyubulanhocalar</title>
-<link>https://audiomack.com/buyubulanhocalar</link>
+<title>Buyu Bulan Hocalar</title>
+<link>https://medyumali.com</link>
 <ttl>60</ttl>
 <language>tr</language>
 <copyright>All rights reserved</copyright>
@@ -15,15 +15,15 @@ Mail: medyumalibey@gmail.com
 Site: https://medyumali.com</description>
 <itunes:subtitle>Büyü bulan hocalar arasında Medyum Ali Hoca, güçl…</itunes:subtitle>
 <itunes:owner>
-<itunes:name>buyubulanhocalar</itunes:name>
+<itunes:name>Buyu Bulan Hocalar</itunes:name>
 <itunes:email>oyunrehberleri0@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:author>Buyu Bulan Hocalar</itunes:author>
-<itunes:image href="https://i.audiomack.com/buyubulanhocalar/d0fd678c87.webp?min=true&amp;height=1400&amp;width=1400" />
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45477060/45477060-1772394352731-dc20489011be9.jpg" />
 <image>
-<title>buyubulanhocalar</title>
-<link>https://audiomack.com/buyubulanhocalar</link>
-<url>https://i.audiomack.com/default-artist-image.webp</url>
+<title>Buyu Bulan Hocalar</title>
+<link>https://medyumali.com</link>
+<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45477060/45477060-1772394352731-dc20489011be9.jpg</url>
 </image>
 <itunes:category text="Religion &amp; Spirituality" />
 <pubDate>Fri, 24 Apr 2026 15:46:08 GMT</pubDate>
