@@ -2,8 +2,8 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <atom:link href="https://audiomack.com/rss/paravesansbuyusuyapanmedyumlar/podcast.rss" rel="self" type="application/rss+xml" />
-<title>paravesansbuyusuyapanmedyumlar</title>
-<link>https://audiomack.com/paravesansbuyusuyapanmedyumlar</link>
+<title>Para ve Sans Buyusu Yapan Medyumlar</title>
+<link>https://medyumali.com</link>
 <ttl>60</ttl>
 <language>tr</language>
 <copyright>All rights reserved</copyright>
@@ -14,12 +14,12 @@
 <itunes:name>paravesansbuyusuyapanmedyumlar</itunes:name>
 <itunes:email>oyunrehberleri0@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:author>paravesansbuyusuyapanmedyumlar</itunes:author>
-<itunes:image href="https://i.audiomack.com/default-artist-image.webp?min=true&amp;height=1400&amp;width=1400" />
+<itunes:author>Para ve Sans Buyusu Yapan Medyumlar</itunes:author>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44553222/44553222-1759758919646-5a425c4e4b107.jpg" />
 <image>
-<title>paravesansbuyusuyapanmedyumlar</title>
-<link>https://audiomack.com/paravesansbuyusuyapanmedyumlar</link>
-<url>https://i.audiomack.com/default-artist-image.webp</url>
+<title>Para ve Sans Buyusu Yapan Medyumlar</title>
+<link>https://medyumali.com</link>
+<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44553222/44553222-1759758919646-5a425c4e4b107.jpg</url>
 </image>
 <itunes:category text="Religion &amp; Spirituality" />
 <pubDate>Fri, 24 Apr 2026 16:51:24 GMT</pubDate>
