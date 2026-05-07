@@ -2,8 +2,8 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <atom:link href="https://audiomack.com/rss/buyuyapanmedyumlar/podcast.rss" rel="self" type="application/rss+xml" />
-<title>BuyuYapanMedyumlar</title>
-<link>https://audiomack.com/buyuyapanmedyumlar</link>
+<title>Buyu Yapan Medyumlar</title>
+<link>https://medyumali.com</link>
 <ttl>60</ttl>
 <language>tr</language>
 <copyright>All rights reserved</copyright>
@@ -11,15 +11,15 @@
 <description>Büyü yapan medyumlar dendiğinde akla gelen ilk ayrım, hangi niyetle ve hangi yöntemle çalıştıklarıdır. Medyum Ali Gürses, büyü yapan medyumlar arasında süreci şeffaf şekilde yönetmesiyle tanınır. Randevu almak isteyenler için 0535 590 62 75 hattı açıktır. Yazılı bilgi almak isteyenler medyumalibey@gmail.com adresine mail gönderebilir. Ayrıca https://medyumali.com sitesinde hangi konuda nasıl bir çalışma yapıldığına dair örnek vakalar bulunur. Ali Gürses, aldığı eğitim ve onlarca vakadan çıkardığı tecrübeyle kişiye özel çalışmalar sunar. Danışanlarından gelen geri bildirimler genellikle sürecin netliği ve sonuçların zamanında gelmesi üzerinedir.</description>
 <itunes:subtitle>Büyü yapan medyumlar dendiğinde akla gelen ilk ay…</itunes:subtitle>
 <itunes:owner>
-<itunes:name>BuyuYapanMedyumlar</itunes:name>
+<itunes:name>Buyu Yapan Medyumlar</itunes:name>
 <itunes:email>oyunrehberleri0@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:author>BuyuYapanMedyumlar</itunes:author>
-<itunes:image href="https://i.audiomack.com/default-artist-image.webp?min=true&amp;height=1400&amp;width=1400" />
+<itunes:author>Buyu Yapan Medyumlar</itunes:author>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45477014/45477014-1772394041469-541fffbc63cfe.jpg" />
 <image>
-<title>BuyuYapanMedyumlar</title>
-<link>https://audiomack.com/buyuyapanmedyumlar</link>
-<url>https://i.audiomack.com/default-artist-image.webp</url>
+<title>Buyu Yapan Medyumlar</title>
+<link>https://medyumali.com</link>
+<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45477014/45477014-1772394041469-541fffbc63cfe.jpg</url>
 </image>
 <itunes:category text="Religion &amp; Spirituality" />
 <pubDate>Fri, 24 Apr 2026 17:25:51 GMT</pubDate>
