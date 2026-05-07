@@ -3,7 +3,7 @@
 <channel>
 <atom:link href="https://audiomack.com/rss/gerigetirmebuyusuyapanhocalar/podcast.rss" rel="self" type="application/rss+xml" />
 <title>Geri Getirme Buyusu Yapan Hocalar</title>
-<link>https://audiomack.com/gerigetirmebuyusuyapanhocalar</link>
+<link>https://medyumali.com</link>
 <ttl>60</ttl>
 <language>tr</language>
 <copyright>All rights reserved</copyright>
@@ -19,11 +19,12 @@ Site: https://medyumali.com</description>
 <itunes:email>oyunrehberleri0@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:author>Geri Getirme Buyusu Yapan Hocalar</itunes:author>
-<itunes:image href="https://i.audiomack.com/gerigetirmebuyusuyapanhocalar/6e124104bb.webp?min=true&amp;height=1400&amp;width=1400" />
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45477014/45477014-1772394041469-541fffbc63cfe.jpg" />
 <image>
 <title>Geri Getirme Buyusu Yapan Hocalar</title>
 <link>https://audiomack.com/gerigetirmebuyusuyapanhocalar</link>
-<url>https://i.audiomack.com/gerigetirmebuyusuyapanhocalar/6e124104bb.webp</url>
+<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45477014/45477014-1772394041469-541fffbc63cfe.jpg
+</url>
 </image>
 <itunes:category text="Religion &amp; Spirituality" />
 <pubDate>Fri, 24 Apr 2026 15:26:39 GMT</pubDate>
